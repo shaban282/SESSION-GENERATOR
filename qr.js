@@ -17,14 +17,14 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ┌───⭓『
-❒ *WASI-MD*
+❒ *SHABAN-MD*
 ❒ _NOW DEPLOY IT_
 └────────────⭓
 ┌───⭓
 ❒  • Chat with owner •
 ❒ *GitHub:* __https://github.com/WASI-MD_
-❒ *Author:* _wa.me/923192173398_
-❒ *YT:* _https://youtube.com/@wasitech10_
+❒ *Author:* _wa.me/923059395959_
+❒ *YT:* _https://youtube.com/@mrshaban3788?si=GYPwbIg4mxUdtsou_
 └────────────⭓
 `
 
